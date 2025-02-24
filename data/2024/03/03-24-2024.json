@@ -1,0 +1,14 @@
+{
+    "fact": "Did you know that a giraffe's neck contains the same number of vertebrae as a human's ... just seven?",
+    "topic": "Animal Facts",
+    "category": "Nature",
+    "tags": ["Giraffes", "Animals", "Wildlife", "Anatomy"],
+    "didYouKnow": "Did you also know that each vertebra in a giraffe's neck can be over 10 inches long!",
+    "references": [
+        {
+            "title": "National Geographic - Giraffe",
+            "url": "https://www.nationalgeographic.com/animals/mammals/facts/giraffe"
+        }
+    ],
+    "placeholder": false
+}

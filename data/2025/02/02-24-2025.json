@@ -1,0 +1,9 @@
+{
+    "fact": "Did you know that Zhang Heng's seismoscope, invented in ancient China, used a pendulum and dragon/toad mechanism to indicate the direction of earthquakes, relying on the principle of inertia?",
+    "topic": "Zhang Heng's Seismoscope",
+    "category": "Ancient Science & Technology",
+    "tags": ["Ancient China", "Seismoscope", "Zhang Heng", "Earthquakes", "Invention", "Science"],
+    "didYouKnow": "Did you also know that while the device could show the direction of seismic waves, its exact use in ancient Chinese civil emergency operations remains a mystery?",
+    "references": [{ "title": "Zhang Heng’s earthquake recorder - Te Papa", "url": "https://collections.tepapa.govt.nz/object/123164"}],
+    "placeholder": false
+}

@@ -1,0 +1,9 @@
+{
+    "fact": "Did you know that the highest note ever sung by a human is a G10, achieved by Georgia Brown?",
+    "topic": "Music Records",
+    "category": "Entertainment",
+    "tags": ["Music", "Records", "Singing", "Human Voice"],
+    "didYouKnow": "Did you also know that a G10 is far beyond the range of a standard piano, which typically only goes up to a C8?",
+    "references": [{ "title": "Guinness World Records - Highest vocal note by a female", "url": "https://www.guinnessworldrecords.com/world-records/greatest-vocal-range-female" }],
+    "placeholder": false
+}

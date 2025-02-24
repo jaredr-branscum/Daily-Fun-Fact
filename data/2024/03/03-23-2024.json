@@ -1,0 +1,9 @@
+{
+    "fact": "Did you know that sloths can hold their breath for up to 40 minutes?",
+    "topic": "Animal Facts",
+    "category": "Nature",
+    "tags": ["Animals", "Wildlife", "Sloths"],
+    "didYouKnow": "Did you also know that sloths are known for their slow movement and arboreal lifestyle?",
+    "references": [{ "title": "Wikipedia - Sloth", "url": "https://en.wikipedia.org/wiki/Sloth" }],
+    "placeholder": false
+}

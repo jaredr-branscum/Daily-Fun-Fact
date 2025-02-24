@@ -1,0 +1,9 @@
+{
+    "fact": "Did you know that early pumpkin pies were wildly different, sometimes layered with apples and herbs like rosemary and thyme, or even cooked directly inside a hollowed-out pumpkin?",
+    "topic": "Early Pumpkin Pie Recipes",
+    "category": "Food & History",
+    "tags": ["Pumpkin Pie", "History", "Cooking", "Recipes", "Colonial Food"],
+    "didYouKnow": "Did you also know that pumpkin pie became a symbol of abolitionist sentiment in the 19th century, with abolitionists like Sarah Josepha Hale and Lydia Maria Child prominently featuring it in their writings, even leading Confederate observers to view Thanksgiving as a 'Yankee' tradition imposed on the South?",
+    "references": [{ "title": "History.com - The History of Pumpkin Pie", "url": "https://www.history.com/news/the-history-of-pumpkin-pie"}],
+    "placeholder": false
+}
