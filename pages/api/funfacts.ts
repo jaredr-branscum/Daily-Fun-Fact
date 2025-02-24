@@ -17,13 +17,11 @@ async function getAllFunFacts(): Promise<{ [date: string]: FunFactProps }> {
     const allFunFacts: { [date: string]: FunFactProps } = {}
     const dataDir = path.join(process.cwd(), 'data')
 
-
-
     try {
         const years = await fs.readdir(dataDir)
         if (!years || years.length === 0) {
             // Check if no years are found
-            console.warning('No years found in data directory. Check your data structure.')
+            console.warn('No years found in data directory. Check your data structure.')
             return {} // Return empty object if no years are found
         }
 
@@ -35,7 +33,7 @@ async function getAllFunFacts(): Promise<{ [date: string]: FunFactProps }> {
 
             if (!months || months.length === 0) {
                 // Check if no months are found
-                console.warning(`No months found in ${year}. Check your data structure.`)
+                console.warn(`No months found in ${year}. Check your data structure.`)
                 continue // Skip to the next year
             }
 
@@ -47,7 +45,7 @@ async function getAllFunFacts(): Promise<{ [date: string]: FunFactProps }> {
 
                 if (!files || files.length === 0) {
                     // Check if no files are found
-                    console.warning(`No files found in ${year}/${month}. Check your data structure.`)
+                    console.warn(`No files found in ${year}/${month}. Check your data structure.`)
                     continue // Skip to the next month
                 }
 

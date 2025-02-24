@@ -1,6 +1,7 @@
 {
     "name": "daily-fun-fact-web",
     "version": "0.0.1",
+    "homepage": "https://jaredr-branscum.github.io/Daily-Fun-Fact",
     "private": true,
     "scripts": {
         "dev": "next dev --turbopack",

@@ -4,6 +4,11 @@
     "category": "Transportation",
     "tags": ["Cars", "History", "Speeding", "Laws"],
     "didYouKnow": "Did you also know that the driver was caught by a police officer on a bicycle who pursued him for 5 miles?",
-    "references": [{ "title": "Walter Arnold and the World’s First Ever Speeding Ticket", "url": "https://www.historic-uk.com/HistoryUK/HistoryofBritain/The-First-Speeding-Fine/" }],
+    "references": [
+        {
+            "title": "Walter Arnold and the World’s First Ever Speeding Ticket",
+            "url": "https://www.historic-uk.com/HistoryUK/HistoryofBritain/The-First-Speeding-Fine/"
+        }
+    ],
     "placeholder": false
 }
