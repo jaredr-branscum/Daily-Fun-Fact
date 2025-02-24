@@ -19,7 +19,7 @@ After selecting a year and month, the page displays all fun facts available for 
 
 ## Data Format
 
-Fun fact data is stored in JSON files within the `data` directory. The directory structure is `data/year/month/dd-mm-yyyy.json`.  Each JSON file contains the following structure:
+Fun fact data is stored in JSON files within the `data` directory. The directory structure is `data/year/month/mm-dd-yyyy.json`.  Each JSON file contains the following structure:
 
 ```json
 {
