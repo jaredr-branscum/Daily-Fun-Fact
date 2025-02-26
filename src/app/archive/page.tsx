@@ -79,10 +79,17 @@ const ArchivePage: React.FC = () => {
 
     return (
         <main className="container mx-auto p-8 bg-gray-100 min-h-screen flex flex-col items-center justify-center">
-            <h1 className="text-3xl font-bold mb-4 text-center text-black">Fun Facts Archive</h1>
+            <h1 className="text-3xl font-bold mb-4 text-center text-black" data-testid="fun-fact-archive">
+                Fun Facts Archive
+            </h1>
 
             <div className="flex justify-center mb-6 space-x-4">
-                <select value={selectedYear} onChange={handleYearChange} className="select-style">
+                <select
+                    value={selectedYear}
+                    onChange={handleYearChange}
+                    className="select-style"
+                    data-testid="fun-fact-archive-select-year"
+                >
                     <option value="">Select a Year</option>
                     {availableYears.map((year) => (
                         <option key={year} value={year}>
@@ -91,7 +98,12 @@ const ArchivePage: React.FC = () => {
                     ))}
                 </select>
 
-                <select value={selectedMonth} onChange={handleMonthChange} className="select-style">
+                <select
+                    value={selectedMonth}
+                    onChange={handleMonthChange}
+                    className="select-style"
+                    data-testid="fun-fact-archive-select-month"
+                >
                     <option value="">Select a Month</option>
                     {allMonths.map((month) => (
                         <option key={month} value={month}>

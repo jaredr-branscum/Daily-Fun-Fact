@@ -8,7 +8,11 @@ interface NavigationProps {
 const Navigation: React.FC<NavigationProps> = () => {
     return (
         <div className="mt-8 flex space-x-4">
-            <Link href="/archive" className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+            <Link
+                href="/archive"
+                className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
+                data-testid="archive-link"
+            >
                 View Past Fun Facts
             </Link>
         </div>

@@ -8,12 +8,20 @@ import { FunFactProps } from '@/types/FunFact'
 const FunFactCard: React.FC<FunFactProps> = ({ fact, date, topic, category, tags, didYouKnow, references }) => {
     const [showReferences, setShowReferences] = useState(false)
     return (
-        <div className="card-container">
+        <div className="card-container" data-testid="fun-fact-card">
             <div className="flex flex-wrap items-center gap-2 mb-4">
-                <span className="topic-badge">{topic}</span>
-                {category && <span className="category-badge">{category}</span>}
+                <span className="topic-badge" data-testid="fun-fact-topic">
+                    {topic}
+                </span>
+                {category && (
+                    <span className="category-badge" data-testid="fun-fact-category">
+                        {category}
+                    </span>
+                )}
             </div>
-            <p className="fact-text">{fact}</p>
+            <p className="fact-text" data-testid="fun-fact-text">
+                {fact}
+            </p>
             {didYouKnow && (
                 <div className="did-you-know-banner">
                     <div className="flex">
@@ -21,7 +29,9 @@ const FunFactCard: React.FC<FunFactProps> = ({ fact, date, topic, category, tags
                             <Info className="h-5 w-5 text-yellow-400" />
                         </div>
                         <div className="ml-3">
-                            <p className="text-sm text-yellow-700">{didYouKnow}</p>
+                            <p className="text-sm text-yellow-700" data-testid="fun-fact-did-you-know">
+                                {didYouKnow}
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -34,7 +44,7 @@ const FunFactCard: React.FC<FunFactProps> = ({ fact, date, topic, category, tags
                 <div className="tags-container">
                     <Tag className="h-4 w-4 text-gray-400" />
                     {tags.map((tag, index) => (
-                        <span key={index} className="tag-item">
+                        <span key={index} className="tag-item" data-testid="fun-fact-tag">
                             {tag}
                         </span>
                     ))}
@@ -42,7 +52,11 @@ const FunFactCard: React.FC<FunFactProps> = ({ fact, date, topic, category, tags
             )}
             {references && references.length > 0 && (
                 <div className="references-container">
-                    <button onClick={() => setShowReferences(!showReferences)} className="references-button">
+                    <button
+                        onClick={() => setShowReferences(!showReferences)}
+                        className="references-button"
+                        data-testid="fun-fact-reference-button"
+                    >
                         <Book className="mr-2 h-4 w-4" />
                         {showReferences ? 'Hide References' : 'Show References'}
                     </button>
@@ -57,6 +71,7 @@ const FunFactCard: React.FC<FunFactProps> = ({ fact, date, topic, category, tags
                                             target="_blank"
                                             rel="noopener noreferrer"
                                             className="reference-link"
+                                            data-testid="fun-fact-reference-link"
                                         >
                                             {ref.title}
                                         </a>
