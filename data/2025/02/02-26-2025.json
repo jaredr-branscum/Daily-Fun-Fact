@@ -1,0 +1,26 @@
+{
+    "fact": "Did you know that in the United States, charitable giving has declined in total by nearly 13% when you account for inflation compared to 2020?",
+    "topic": "Consistent Charitable Giving in the US",
+    "category": "Economics and Altruism",
+    "tags": ["Charitable Giving", "Economics", "GDP", "Philanthropy", "US Economy", "Giving USA"],
+    "didYouKnow": "The proportion of charitable contributions from various sources including giving by individuals, foundations, bequest, or corporations has remained relatively stable, but the amount of charitable giving towards recipient categories significantly changes year over year.",
+    "references": [
+        {
+            "title": "Giving USA",
+            "url": "https://givingusa.org/"
+        },
+        {
+            "title": "Giving USA: U.S. charitable giving totaled $557.16 billion in 2023",
+            "url": "https://philanthropy.indianapolis.iu.edu/news-events/news/_news/2024/giving-usa-us-charitable-giving-totaled-557.16-billion-in-2023.html"
+        },
+        {
+            "title": "Giving USA: Total U.S. charitable giving declined in 2022 to $499.33 billion following two years of record generosity",
+            "url": "https://philanthropy.indianapolis.iu.edu/news-events/news/_news/2023/giving-usa-total-us-charitable-giving-declined-in-2022-to-49933-billion-following-two-years-of-record-generosity.html"
+        },
+        {
+            "title": "Giving USA: Total U.S. charitable giving remained strong in 2021, reaching $484.85 billion",
+            "url": "https://philanthropy.indianapolis.iu.edu/news-events/news/_news/2022/giving-usa-total-us-charitable-giving-remained-strong-in-2021-reaching-48485-billion.html"
+        }
+    ],
+    "placeholder": false
+}
