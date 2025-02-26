@@ -34,3 +34,6 @@ Fun fact data is stored in JSON files within the `data` directory. The directory
 ```
 
 Note: the placeholder boolean does not have any functionality, but this was added in the initial design to support adding fun facts for future dates that are not yet revealed. This field would be deprecated if the application is redesigned to pull the fun facts from an external source such as Object Storage or Cloud database.
+
+## Testing
+Utilizes Playwright to test end-to-end
