@@ -1,0 +1,22 @@
+{
+    "fact": "Did you know that Linus the founder of the Linux kernel wouldn't have started the project if the GNU kernel came out sooner?",
+    "topic": "Peculiar Discussion About Linux",
+    "category": "Computer History",
+    "tags": [
+        "Linux",
+        "Linus Torvalds",
+        "GNU Kernel",
+        "Operating Systems",
+        "Project Origins",
+        "Computer Science",
+        "Historical Context"
+    ],
+    "didYouKnow": "The fun fact comes from a Google Groups correspondence between Professor Andrew S. Tanenbaum and Linus Torvalds, among others in 1992.",
+    "references": [
+        {
+            "title": "LINUX is obsolete",
+            "url": "https://groups.google.com/g/comp.os.minix/c/wlhw16QWltI"
+        }
+    ],
+    "placeholder": false
+}
