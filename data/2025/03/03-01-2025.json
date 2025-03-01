@@ -1,0 +1,22 @@
+{
+    "fact": "Did you know that blue whales can slow their heart rate as low as 2 beats per minute when diving?",
+    "topic": "Marine Animal Diving Adaptations",
+    "category": "Marine Biology",
+    "tags": ["Animal Adaptations", "Diving", "Physiology", "Marine Mammals", "Cetaceans", "Whales", "Dolphins"],
+    "didYouKnow": "Studies also show that dolphins can adapt their heart rate intentionally in a matter of seconds before holding their breath.",
+    "references": [
+        {
+            "title": "Voluntarily Lowering One’s Heart Rate to Dive Safely",
+            "url": "https://baleinesendirect.org/en/voluntarily-lowering-ones-heart-rate-to-dive-safely/"
+        },
+        {
+            "title": "Conditioned Variation in Heart Rate During Static Breath-Holds in the Bottlenose Dolphin (Tursiops truncatus)",
+            "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2020.604018"
+        },
+        {
+            "title": "Two Beats a Minute Underwater: A Lesson in Blue Whale Cardio!",
+            "url": "https://baleinesendirect.org/en/two-beats-a-minute-underwater-a-lesson-in-blue-whale-cardio/"
+        }
+    ],
+    "placeholder": false
+}
