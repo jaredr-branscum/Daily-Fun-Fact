@@ -1,0 +1,14 @@
+{
+    "fact": "Did you know that Arnold Schwarzenegger had to bite a real, alcohol-soaked dead vulture?",
+    "topic": "The Grueling Demands of Conan",
+    "category": "Film History",
+    "tags": ["Arnold Schwarzenegger", "Conan the Barbarian", "Movie Production", "Action Movies", "Behind the Scenes"],
+    "didYouKnow": "To add to the authenticity of a scene in the film 'Conan the Barbarian', he had to bite a real dead vulture that was soaked in alcohol to kill bacteria, but still had lice.",
+    "references": [
+        {
+            "title": "GovSchwarzenegger Reddit Post",
+            "url": "https://np.reddit.com/r/todayilearned/comments/4ovi84/til_during_filming_of_conan_the_barbarian_arnold/d4iqrfe/"
+        }
+    ],
+    "placeholder": false
+}
