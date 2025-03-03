@@ -1,0 +1,18 @@
+{
+    "fact": "Did you know Bruce Lee, the founder of Jeet Kune Do, suffered from myopia, also known as nearsightedness?",
+    "topic": "Bruce Lee's Eye Condition",
+    "category": "Personal Health & Martial Arts",
+    "tags": ["Bruce Lee", "Nearsighted", "Contact Lenses", "Martial Arts", "Jeet Kune Do"],
+    "didYouKnow": "To compensate, he used to wear daily contact lenses. He also underwent surgery to remove his sweat glands.",
+    "references": [
+        {
+            "title": "Bruce Lee Once Suffered From a Common Condition That Affects More Than 40% of the Americans",
+            "url": "https://www.essentiallysports.com/us-sports-ufc-mma-news-bruce-lee-once-suffered-from-a-common-condition-that-affects-more-than-40-of-the-americans-1533846-2/"
+        },
+        {
+            "title": "How Did Bruce Lee Die?",
+            "url": "https://www.history.com/news/bruce-lee-death-mystery-solved-sweat-glands"
+        }
+    ],
+    "placeholder": false
+}
