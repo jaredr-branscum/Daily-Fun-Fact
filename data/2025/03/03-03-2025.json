@@ -1,0 +1,18 @@
+{
+    "fact": "Did you know William Marshal, despite past tensions, became Richard the Lionheart's trusted advisor and later on, became the regent of England?",
+    "topic": "Marshal's Rise to Regency",
+    "category": "Medieval History & English Monarchy",
+    "tags": ["William Marshal", "Richard the Lionheart", "Regent", "Medieval England", "History"],
+    "didYouKnow": "Marshal played a pivotal role in stabilizing the Kingdom of England during his reign as regent, reinstituting the Magna Carta for example. He was regarded by his contemporaries as the greatest knight that ever lived due to his military prowess, service under four monarchs, and chivalrous reputation.",
+    "references": [
+        {
+            "title": "William Marshal, 1st earl of Pembroke",
+            "url": "https://www.britannica.com/biography/William-Marshal-1st-earl-of-Pembroke"
+        },
+        {
+            "title": "William Marshal: the greatest knight in all the world",
+            "url": "https://www.readingmuseum.org.uk/blog/william-marshal-greatest-knight-all-world"
+        }
+    ],
+    "placeholder": false
+}
