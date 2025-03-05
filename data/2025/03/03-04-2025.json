@@ -1,0 +1,18 @@
+{
+    "fact": "Did you know the classic Caesar salad was created in Tijuana, Mexico, not Italy?",
+    "topic": "The Origins of Caesar Salad",
+    "category": "Food History & Mexican Cuisine",
+    "tags": ["Caesar Salad", "Tijuana", "Mexico", "Cesare Cardini", "Food Origins"],
+    "didYouKnow": "Cesare Cardini, an Italian immigrant living in the US and Mexico, is credited with inventing the Caesar salad at his restaurant in Tijuana back in July 4, 1924. The original recipe consisted of only seven ingredients: romaine lettuce, raw egg yolk, olive oil, Parmigiano-Reggiano cheese, Worcestershire sauce, lime juice, and a toasted baguette slice. The popular additions like garlic, anchovies, and croutons came later. His brother also claimed to have invented the salad, sparking a debate about the true inventor.",
+    "references": [
+        {
+            "title": "Who knew? The original Caesar salad recipe made its debut on the Fourth of July in Tijuana, Mexico.",
+            "url": "https://www.uchealth.org/today/the-origin-of-caesar-salad-plus-original-recipe/"
+        },
+        {
+            "title": "Thought you knew the food you were eating? So did we!",
+            "url": "https://www.eatfirst.com.au/en-au/c/blog/fun-facts-about-food"
+        }
+    ],
+    "placeholder": false
+}
