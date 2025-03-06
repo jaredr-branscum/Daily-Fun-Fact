@@ -1,0 +1,18 @@
+{
+    "fact": "Did you know that one of the earliest recorded instances of biological warfare involved using the bubonic plague, with armies catapulting infected corpses over city walls to spread the disease?",
+    "topic": "Bubonic Plague and Historical Warfare",
+    "category": "History & Medicine",
+    "tags": ["Bubonic Plague", "Biological Warfare", "Medieval History"],
+    "didYouKnow": "Did you also know that the term 'quarantine' originates from the Italian word 'quarantena,' meaning 40 days, which was the period ships suspected of carrying plague victims were required to isolate before landing in Venetian ports?",
+    "references": [
+        {
+            "title": "Wikipedia - Bubonic plague",
+            "url": "https://en.wikipedia.org/wiki/Bubonic_plague"
+        },
+        {
+            "title": "Etymology Online - quarantine",
+            "url": "https://www.etymonline.com/word/quarantine"
+        }
+    ],
+    "placeholder": false
+}
