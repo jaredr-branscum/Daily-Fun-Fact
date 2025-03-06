@@ -1,0 +1,18 @@
+{
+    "fact": "Did you know that the S&P 500, despite representing the largest U.S. companies, has a surprisingly high turnover rate, with an average company lifespan on the index of only 16 years?",
+    "topic": "S&P 500 Dynamics and Presidential Influence",
+    "category": "Finance & Stock Market",
+    "tags": ["S&P 500", "Stock Market", "Political Economy"],
+    "didYouKnow": "Did you also know U.S. Presidents typically have very little impact on the stock market?",
+    "references": [
+        {
+            "title": "Investopedia - The S&P 500 Index: You Need to Know",
+            "url": "https://www.investopedia.com/articles/investing/090414/sp-500-index-you-need-know.asp"
+        },
+        {
+            "title": "Presidents and Their Impact on the Stock Market",
+            "url": "https://www.investopedia.com/presidents-and-their-impact-on-the-stock-market-4587369"
+        }
+    ],
+    "placeholder": false
+}
