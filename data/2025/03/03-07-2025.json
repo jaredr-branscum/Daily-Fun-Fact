@@ -1,0 +1,14 @@
+{
+    "fact": "Did you know that in 1596, Sir John Harington, godson of Queen Elizabeth I, invented the first flushing lavatory named the 'Ajax'?",
+    "topic": "Sir John Harington and the Ajax",
+    "category": "Inventions & History",
+    "tags": ["Plumbing", "Flushing Toilet", "John Harington", "Elizabethan Era", "Ajax"],
+    "didYouKnow": "Despite Queen Elizabeth I's approval, the public remained largely indifferent, preferring chamber pots, and it took nearly 250 years, until the mid-19th century, for flushing toilets to become widely adopted.",
+    "references": [
+        {
+            "title": "The Throne of Sir John Harrington",
+            "url": "https://www.historic-uk.com/CultureUK/The-Throne-of-Sir-John-Harrington/"
+        }
+    ],
+    "placeholder": false
+}
