@@ -1,0 +1,18 @@
+{
+    "fact": "Did you know that there's an hypothesis that serotonin, a neurotransmitter linked to mood, also influences how sharply your brain perceives visual details, like the orientation of lines?",
+    "topic": "Serotonin and Visual Perception",
+    "category": "Neuroscience & Visual Illusions",
+    "tags": ["Serotonin", "Visual Perception", "Tilt Aftereffect", "Neurotransmitters", "Brain Function"],
+    "didYouKnow": "Studies using MDMA (Ecstasy), which affects serotonin levels, have shown that serotonin plays a role in 'sharpening' how your brain interprets visual orientations. When serotonin levels are altered, it can affect the brain's ability to filter out visual information, leading to changes in perceived visual illusions like the 'Tilt Aftereffect'.",
+    "references": [
+        {
+            "title": "Serotonin regulates in a cell-type specific manner light-evoked response and synaptic activity in mouse retinal ganglion cells",
+            "url": "https://biolres.biomedcentral.com/articles/10.1186/s40659-025-00594-6"
+        },
+        {
+            "title": "Role of serotonin in visual orientation processing",
+            "url": "https://en.wikipedia.org/wiki/Role_of_serotonin_in_visual_orientation_processing"
+        }
+    ],
+    "placeholder": false
+}
