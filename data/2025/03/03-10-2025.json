@@ -1,0 +1,22 @@
+{
+    "fact": "Did you know that there is a story about Napoleon Bonaparte being overwhelmed and forced to retreat from a horde of domestic rabbits during a planned hunt by his Chief of Staff?",
+    "topic": "Napoleon's Humiliating Rabbit Encounter",
+    "category": "Historical Anecdotes & Military Mishaps",
+    "tags": ["Napoleon Bonaparte", "Attack", "Anecdote", "History", "Military", "Humor"],
+    "didYouKnow": "The reliability of this story is up to debate. The earliest known source at this time comes from a text published almost 90 years after the alleged incident. But it still makes for an interesting story nonetheless.",
+    "references": [
+        {
+            "title": "A Brief Moment of History: When Napoleon Took on Rabbits",
+            "url": "https://justhistoryposts.com/2023/01/27/a-brief-moment-of-history-when-napoleon-took-on-rabbits/"
+        },
+        {
+            "title": "Napoleon and the Battle of the Rabbits: Faced with the implacable animal horde, the Emperor beat a hasty retreat",
+            "url": "https://www.thevintagenews.com/2018/05/18/napoleon-and-the-battle-of-the-rabbits/?chrome=1"
+        },
+        {
+            "title": "The Time Napoleon Was Attacked by Rabbits",
+            "url": "https://www.mentalfloss.com/article/51364/time-napoleon-was-attacked-rabbits"
+        }
+    ],
+    "placeholder": false
+}
