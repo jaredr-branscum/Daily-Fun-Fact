@@ -1,0 +1,14 @@
+{
+    "fact": "Did you know that gummy bears were originally called 'dancing bears' (Tanzbären) and were inspired by trained bears that performed at European festivals?",
+    "topic": "Gummy Bear Origins",
+    "category": "Food History",
+    "tags": ["Gummy Bears", "Candy", "Food History", "Haribo", "Tanzbären", "Confectionery"],
+    "didYouKnow": "Some Haribo candies are unique to certain countries. Turkey has denture-shaped teeth gummies. The U.K.’s got milkshake candies in strawberry, banana and vanilla cream flavors. In France and Germany, blue-hued gummies pay homage to the cartoon Smurfs.",
+    "references": [
+        {
+            "title": "The Colorful History of Haribo Goldbears, the World’s First Gummy Bears",
+            "url": "https://www.smithsonianmag.com/history/the-colorful-history-of-haribo-goldbears-the-worlds-first-gummy-bears-180980094/"
+        }
+    ],
+    "placeholder": false
+}
