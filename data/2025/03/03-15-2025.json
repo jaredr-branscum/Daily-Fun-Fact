@@ -1,0 +1,18 @@
+{
+    "fact": "Did you know that the record for the most digits of pi memorized at this time is held by Suresh Kumar Sharma, who recited 70,030 digits in 2015, taking over 17 hours?",
+    "topic": "Pi World Record",
+    "category": "Mathematics",
+    "tags": ["Pi", "Mathematics", "Memorization", "Records", "Guinness World Records"],
+    "didYouKnow": "Did you also know that the Chudnovsky algorithm is a fast method calculating the digits of pi, calculating over 202 trillion digits in 2024?",
+    "references": [
+        {
+            "title": "Pi World Ranking List",
+            "url": "https://www.pi-world-ranking-list.com/?page=lists&category=pi"
+        },
+        {
+            "title": "StorageReview Lab Breaks Pi Calculation World Record with Over 202 Trillion Digits",
+            "url": "https://www.storagereview.com/news/storagereview-lab-breaks-pi-calculation-world-record-with-over-202-trillion-digits"
+        }
+    ],
+    "placeholder": false
+}
