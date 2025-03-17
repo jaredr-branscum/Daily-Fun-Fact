@@ -1,0 +1,22 @@
+{
+    "fact": "Did you know that the French Philosopher Voltaire amassed a fortune by exploiting a mathematical flaw in the French national lottery, enabling him to retire and dedicate himself to his writing?",
+    "topic": "Voltaire's Lottery Fortune",
+    "category": "Biography",
+    "tags": ["Voltaire", "Lottery", "Finance", "Mathematics", "French History", "Biography", "Wealth"],
+    "didYouKnow": "Did you also know that Voltaire is attributed with the quote: 'Every man is guilty of all the good he did not do'?",
+    "references": [
+        {
+            "title": "10 Things You Should Know About Voltaire",
+            "url": "https://www.history.com/news/10-things-you-should-know-about-voltaire"
+        },
+        {
+            "title": "How Voltaire Made a Fortune Rigging the Lottery",
+            "url": "https://www.todayifoundout.com/index.php/2013/05/how-voiltaire-made-a-fortune-rigging-the-lottery/"
+        },
+        {
+            "title": "Le Siècle de Louis XIV",
+            "url": "https://fr.wikisource.org/wiki/Page:Voltaire_-_%C5%92uvres_compl%C3%A8tes_Garnier_tome14.djvu/243"
+        }
+    ],
+    "placeholder": false
+}
