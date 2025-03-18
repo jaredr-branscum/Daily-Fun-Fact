@@ -1,0 +1,18 @@
+{
+    "fact": "Did you know that J. Robert Oppenheimer, beyond his scientific pursuits, had a deep interest in Eastern philosophy and Sanskrit literature, even learning Sanskrit and reading the Bhagavad Gita in its original language?",
+    "topic": "Oppenheimer's Philosophy",
+    "category": "Philosophy",
+    "tags": ["Oppenheimer", "Bhagavad Gita", "Sanskrit", "Eastern Philosophy", "Literature", "Science", "History"],
+    "didYouKnow": "Oppenheimer's knowledge of Sanskrit and Eastern philosophy influenced his worldview, including his reflections on the atomic bomb. He famously quoted the Bhagavad Gita, 'Now I am become Death, the destroyer of worlds,' after witnessing the Trinity test.",
+    "references": [
+        {
+            "title": "Oppenheimer: How he was influenced by the Bhagavad Gita",
+            "url": "https://www.bbc.com/news/world-asia-india-66288900"
+        },
+        {
+            "title": "Why Did Oppenheimer Say \"Now I am Death, the Destroyer of Worlds\" and What Did It Mean?",
+            "url": "https://www.syfy.com/why-oppenheimer-said-now-i-am-death-the-destroyer-of-worlds"
+        }
+    ],
+    "placeholder": false
+}
