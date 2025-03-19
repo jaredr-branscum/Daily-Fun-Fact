@@ -1,0 +1,18 @@
+{
+    "fact": "Did you know that the Earth's rotation is gradually slowing down, making each day slightly longer?",
+    "topic": "Earth's Rotational Slowdown",
+    "category": "Earth Science",
+    "tags": ["Earth Rotation", "Tidal Forces", "Moon", "Day Length", "Astronomy", "Geophysics"],
+    "didYouKnow": "The primary cause of this slowdown is the tidal friction between the Earth and the Moon. The Moon's gravitational pull creates tides, and the friction of these tides against the ocean floor dissipates some of the Earth's rotational energy, transferring it to the Moon's orbit, which causes the moon to move further away from earth, and the earth to slow down. Each century, the day lengthens by about 1.78 milliseconds.",
+    "references": [
+        {
+            "title": "Ancient eclipses show Earth's rotation is slowing",
+            "url": "https://www.science.org/content/article/ancient-eclipses-show-earth-s-rotation-slowing"
+        },
+        {
+            "title": "Something very weird is happening inside Earth’s core. Here's what that means for the planet",
+            "url": "https://www.sciencefocus.com/planet-earth/earths-mysterious-core"
+        }
+    ],
+    "placeholder": false
+}
