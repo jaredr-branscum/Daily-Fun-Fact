@@ -1,0 +1,22 @@
+{
+    "fact": "Did you know that a single stolen slice of watermelon once sparked an international conflict that led to a U.S. military invasion of Panama?",
+    "topic": "The Watermelon War of 1856",
+    "category": "History",
+    "tags": ["Watermelon Riot", "Panama History", "Geopolitics", "U.S. Intervention", "Central America"],
+    "didYouKnow": "The riot began on April 15, 1856, when a drunken American traveler named Jack Oliver took a slice of watermelon from a local vendor, José Manuel Luna, and refused to pay the dime he owed. When a verbal argument turned into a physical scuffle and Oliver drew a pistol, a nearby bystander intervened. A gun went off, triggering years of pent-up economic resentment among the locals. The conflict quickly escalated into a massive riot that left 17 people dead, destroyed a railroad station, and ultimately forced New Granada (now Colombia and Panama) to pay hundreds of thousands of dollars in damages. The United States used this exact incident to justify occupying the railroad and establishing a permanent military presence, which directly set the stage for the future construction of the Panama Canal.",
+    "references": [
+        {
+            "title": "Incident On The Isthmus - AMERICAN HERITAGE",
+            "url": "https://www.americanheritage.com/incident-isthmus"
+        },
+        {
+            "title": "The Watermelon Riot: Cultural Encounters in Panama City - Duke University Press",
+            "url": "https://read.dukeupress.edu/hahr/article/70/1/85/146726/The-Watermelon-Riot-Cultural-Encounters-in-Panama"
+        },
+        {
+            "title": "Watermelon Riot - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Watermelon_Riot"
+        }
+    ],
+    "placeholder": false
+}

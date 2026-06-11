@@ -5,7 +5,7 @@ export default defineConfig({
     fullyParallel: true,
     reporter: 'html',
     use: {
-        baseURL: 'http://localhost:3000',
+        baseURL: 'http://127.0.0.1:3000',
     },
     webServer: {
         command: 'npm run dev',
@@ -13,8 +13,5 @@ export default defineConfig({
         reuseExistingServer: !process.env.CI,
         stdout: 'ignore',
         stderr: 'pipe',
-    },
-    use: {
-        baseURL: 'http://127.0.0.1:3000',
     },
 })

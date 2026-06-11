@@ -65,12 +65,12 @@ test('Navigation to archive page works', async ({ page }) => {
     // Click the "View Past Fun Facts" link
     await page.locator('[data-testid="archive-link"]').click()
 
-    await page.waitForURL('/archive')
+    // URL may include query params after auto-defaulting to latest month
+    await page.waitForURL(/\/archive/)
 
-    await expect(page).toHaveURL('/archive')
     await expect(page.locator('[data-testid="fun-fact-archive"]')).toHaveText('Fun Facts Archive')
 
-    // Select the year and month to trigger loading the fun facts
+    // Verify user can manually change year and month filters
     await page.locator('[data-testid="fun-fact-archive-select-year"]').selectOption({ label: '2025' })
     await page.locator('[data-testid="fun-fact-archive-select-month"]').selectOption({ label: 'February' })
 
